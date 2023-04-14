@@ -2,6 +2,8 @@
 
 [Sprawdź stronę pod tym linkiem](https://histquest.zsi.kielce.pl/)
 
+[Link do klikalnej makiety](https://www.figma.com/proto/CJVcv32IjxcDUim8O7MxK2/HistQuest?node-id=25-196&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A1024)
+
 Projekt gry historycznej mającej na celu usprawnienie i unowocześnienie lekcji historii w szkole. Gra będzie zawierać wiele różnych minigier, które sprawią że użytkownik szybko się nie znudzi. W trakcie rozgrywki gracz będzie wcielał się w różne role:
 
 - Prezydenta,
