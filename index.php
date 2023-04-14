@@ -25,23 +25,23 @@
             </a>
             <?php
             session_start();
-            if(isset($_SESSION['userID'])):
+            if (isset($_SESSION['userID'])) :
             ?>
                 <a href="./config/logout.php">
-                Wyloguj
-            </a>
+                    Wyloguj
+                </a>
             <?php endif; ?>
             <?php
-            if(!isset($_SESSION['userID'])):
+            if (!isset($_SESSION['userID'])) :
             ?>
                 <a href="./login.php">
-                Zaloguj
-            </a>
+                    Zaloguj
+                </a>
             <?php endif; ?>
         </div>
     </nav>
     <div class="burger">
-    <i class="fa-solid fa-bars"></i>
+        <i class="fa-solid fa-bars"></i>
     </div>
     <div class="gradient"></div>
     <div class="banerL">
@@ -52,21 +52,21 @@
     <div class="content">
         <img src="./pictures/HISTQUEST.png" alt="">
         <p class="indexP">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> quis labore animi quidem accusantium sunt<br> rem necessitatibus est. <br>
+            Innowacyjna, wieloplatformowa platforma edukacyjna pomagająca uczniom i nauczycielom w nauce historii. Nauka historii nie musi być nudna. Spróbuj już dziś. Odkryj historię na nowo z HistQuest - Twoim niezawodnym przewodnikiem w podróży w czasie!
         </p>
         <div class="button">
             <?php
-        if(isset($_SESSION['userID'])):
+            if (isset($_SESSION['userID'])) :
             ?>
                 <a href="./quiz.php">GRAJ</a>
-            </a>
+                </a>
             <?php endif; ?>
             <?php
-            if(!isset($_SESSION['userID'])):
+            if (!isset($_SESSION['userID'])) :
             ?>
                 <a href="./login.php">
-                GRAJ
-            </a>
+                    GRAJ
+                </a>
             <?php endif; ?>
         </div>
     </div>
