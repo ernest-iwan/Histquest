@@ -1,5 +1,7 @@
 # HISTQUEST - działanie gry (algorytm)
 
+[Sprawdź stronę pod tym linkiem](https://histquest.zsi.kielce.pl/)
+
 Projekt gry historycznej mającej na celu usprawnienie i unowocześnienie lekcji historii w szkole. Gra będzie zawierać wiele różnych minigier, które sprawią że użytkownik szybko się nie znudzi. W trakcie rozgrywki gracz będzie wcielał się w różne role:
 
 - Prezydenta,
